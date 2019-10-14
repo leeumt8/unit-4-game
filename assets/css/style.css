@@ -1,0 +1,16 @@
+body, html {
+    height:100%;
+}
+body {
+    background-image: url("https://gamepedia.cursecdn.com/zelda_gamepedia_en/thumb/8/89/Guard_House.jpg/600px-Guard_House.jpg?version=d314e1c01ebe7ee60874aeb5fd742655");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh;
+}
+h1, h2, h3 {
+    color: black;
+}
+h3 {
+    margin-top: 50px;
+    font-size: xx-large;
+}
